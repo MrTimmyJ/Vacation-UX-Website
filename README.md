@@ -6,10 +6,10 @@ Date: May 2023
 
 ## Overview
 
-A user-experience-focused website designed to simulate a tropical vacation destination—Taniti—with an emphasis on webflow, user interaction analysis, and navigational design.
+&nbsp;&nbsp;&nbsp;&nbsp;A user-experience-focused website designed to simulate a tropical vacation destination—Taniti—with an emphasis on webflow, user interaction analysis, and navigational design.
 Built as a practice project to explore effective layout structuring, intuitive user journeys, and visually guided behavior using imagery and semantic HTML.
 
-Taniti Vacation UX Website is a 4-page HTML-based simulation of a travel destination platform.
+&nbsp;&nbsp;&nbsp;&nbsp;Taniti Vacation UX Website is a 4-page HTML-based simulation of a travel destination platform.
 It presents attractions, travel info, and shopping opportunities through a clean and focused visual design.
 The project centers on understanding user behavior, testing navigation flow, and leveraging aesthetic layout choices to guide attention and interactions.
 
